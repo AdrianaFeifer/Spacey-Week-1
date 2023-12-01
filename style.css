@@ -1,0 +1,35 @@
+*{box-sizing: border-box;
+
+}
+
+.galaxy {
+    height: 100vh;
+    background-image: url("./images/galaxy.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat:no-repeat;
+    position: relative;
+    color: white;
+}
+
+.landscape {
+    height: 100vh;
+    background-image: url("./images/landscape.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat:no-repeat;
+    position: relative;
+    color: white;
+}
+
+.eclipse {
+    height: 100vh;
+    background-image: url("./images/eclipse.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat:no-repeat;
+    position: relative;
+    color: white;
+}
+
+
